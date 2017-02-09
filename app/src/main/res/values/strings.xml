@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BarCode_to_1C by DMondi</string>
+    <string name="bc_started">BC Service Started!</string>
+    <string name="svcStoped">Service stoped!</string>
+</resources>
